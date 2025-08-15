@@ -6,7 +6,6 @@ This project is a minimal setup using **React** with **Vite**, **Tailwind CSS**,
 
 ## 🚀 Features
 
-- ⚛️ React 18
 - ⚡ Vite for blazing fast dev/build
 - 🔁 Hot Module Replacement (HMR)
 - 🎨 Tailwind CSS for styling
